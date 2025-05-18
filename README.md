@@ -1,4 +1,4 @@
-# ProgyaBhattacharjee
+# Progya Bhattacharjee
 # Hi, I'm Progya 👋
 
 👩‍💻 **Full Stack Developer | Java & Python Enthusiast | Problem Solver**
